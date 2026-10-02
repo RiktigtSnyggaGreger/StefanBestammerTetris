@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StefanBestammerTetris", "StefanBestammerTetris\StefanBestammerTetris.csproj", "{97092138-983C-4B87-AD33-3F1279C840A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97092138-983C-4B87-AD33-3F1279C840A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97092138-983C-4B87-AD33-3F1279C840A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97092138-983C-4B87-AD33-3F1279C840A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97092138-983C-4B87-AD33-3F1279C840A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
